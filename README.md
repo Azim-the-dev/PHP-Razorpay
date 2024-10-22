@@ -9,7 +9,7 @@ This demo showcases the integration of Razorpay's payment gateway with a PHP app
 Use the following command to clone this repository:
 
 ```bash
-git clone [repository-name]
+git clone https://github.com/Azim-the-dev/PHP-Razorpay.git
 ```
 
 ### Step 2: Clone the Razorpay PHP Library
